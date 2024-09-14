@@ -1,0 +1,6 @@
+if SHIELD_OLIVETTI
+
+config ZMK_KEYBOARD_NAME
+	default "Olivetti"
+	
+endif
